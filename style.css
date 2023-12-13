@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+nav ul{
+    list-style-type: none;
+}
+nav{
+    background-color: rgb(rgb(203, 126, 126), green, blue);
+    color:white;
+    height:75px;
+}
